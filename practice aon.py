@@ -3,7 +3,7 @@ import tkinter as tk
 class BallShooterGame:
     def __init__(self, root):
         self.root = root
-        self.root.title("Ball Shooter Game")
+        self.root.title("Akrawat Sangkhow")
         
         
         self.canvas = tk.Canvas(root, width=500, height=500, bg="#d3d3d3")
